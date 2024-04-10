@@ -1,0 +1,10 @@
+.image-container { 
+    text-align: center; /* Optional: to center the image horizontally */ 
+  } 
+   
+  .image-container img { 
+    max-width: 100%; /* Optional: to make the image responsive */ 
+    max-height: 100%; /* Optional: to make the image responsive */ 
+    display: block; /* Optional: to remove any extra space around the image */ 
+    margin: 0 auto; /* Optional: to center the image horizontally */ 
+  } 
